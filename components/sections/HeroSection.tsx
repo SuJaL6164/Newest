@@ -8,18 +8,18 @@ const path =
 
 // Local photos from /public/ref — resolve to /ref/*.jpg at runtime.
 const imgs = [
-  { src: "/ref/heart.jpg" },
-  { src: "/ref/girl.jpg" },
-  { src: "/ref/girl2.jpg" },
-  { src: "/ref/girl3.jpg" },
-  { src: "/ref/girl4.jpg" },
-  { src: "/ref/girl5.jpg" },
-  { src: "/ref/girl6.jpg" },
-  { src: "/ref/girl7.jpg" },
-  { src: "/ref/girl8.jpg" },
-  { src: "/ref/girl9.jpg" },
-  { src: "/ref/girl10.jpg" },
-  { src: "/ref/girl11.jpg" },
+  { src: "/ref/heart.jpg.jpeg" },
+  { src: "/ref/girl.jpg.jpeg" },
+  { src: "/ref/girl2.jpg.jpeg" },
+  { src: "/ref/girl3.jpg.jpeg" },
+  { src: "/ref/girl4.jpg.jpeg" },
+  { src: "/ref/girl5.jpg.jpeg" },
+  { src: "/ref/girl6.jpg.jpeg" },
+  { src: "/ref/girl7.jpg.jpeg" },
+  { src: "/ref/girl8.jpg.jpeg" },
+  { src: "/ref/girl9.jpg.jpeg" },
+  { src: "/ref/girl10.jpg.jpeg" },
+  { src: "/ref/girl11.jpg.jpeg" },
 ];
 
 // const imgs = [
