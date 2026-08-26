@@ -75,7 +75,9 @@ export const HeroSection = () => {
         </h1>
         <div className="mt-6 h-px w-16 bg-[#9C7A3F]" />
         <p className="hero-body mt-6 max-w-sm text-base leading-relaxed text-[#4A4A42]">
-       wishing you a day filled with love, laughter, and all the happiness your heart can hold. May this year bring you endless joy and unforgettable memories. Happy Birthday!
+       Happy Birthday Yuktuu
+I may not able to explain my feelings what u really mean to me, Cuj some feelings are too deep. U Came into my lef very unsudden and now ur presence meanss tooo muchh and this is vemryyy beautiful part of my world. Everyday with u feels very very happy and special ngl... 
+U are my comfort place and with u I feel very very happy and noicee like u and u understand me, help me, care about me and u are the person who always stands with me in goods and bads. I promise to always respect u, stand for u, motivate u and always support u, with u life feels more enjoyable.
         </p>
       </div>
 
