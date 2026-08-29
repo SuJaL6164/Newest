@@ -12,15 +12,15 @@ const handwriting = Caveat({
 });
 
 // const images = [
-//   "/pipis/pipi3.jpg",
-//   "/pipis/pipi4.jpg",
-//   "/pipis/pipi5.jpg",
-//   "/pipis/pipi6.jpg",
-//   "/pipis/pipi7.jpg",
-//   // "/pipis/pipi8.jpg",
-//   "/pipis/pipi9.jpg",
-//   "/pipis/pipi10.jpg",
-//   "/pipis/pipi11.jpg",
+//   "/pipis/pipi3.jpeg",
+//   "/pipis/pipi4.jpeg",
+//   "/pipis/pipi5.jpeg",
+//   "/pipis/pipi6.jpeg",
+//   "/pipis/pipi7.jpeg",
+//   // "/pipis/pipi8.jpeg",
+//   "/pipis/pipi9.jpeg",
+//   "/pipis/pipi10.jpeg",
+//   "/pipis/pipi11.jpeg",
 // ];
 
 const images = [
